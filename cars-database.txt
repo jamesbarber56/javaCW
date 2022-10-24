@@ -1,0 +1,6 @@
+KB55OOW,Ford Galaxy,MPV,,light blue,150000,none,manual,8000,sold,2019-04-12,2019-04-20
+AY53WRD,Ford Focus,Hatchback,,silver,88754,none,manual,1000,available,2018-11-17,
+HU12JFK,Mercedes Citan,Van,small,white,72000,indent on back bumper,automatic,10000,sold,2018-12-20,2019-01-17
+GE12WHS,Lincoln Town Car,Saloon,,black,50322,none,automatic,7029,sold,2018-12-16,2019-04-15
+HW52WDN,Ford Transit,Van,large,black,23902,none,manual,2500,available,2019-05-15,
+LN61GHE,Volvo XC90,SUV,,grey,20000,none,automatic,30000,available,2019-05-15,
